@@ -64,6 +64,13 @@ header {
   height: 100vh;
 }
 
+h1 {
+	padding: 300px 40px 40px 40px;
+	font-size: 50px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
 .imgContainer {
   background-image: url(../images/049.JPG);
   background-position: center;
